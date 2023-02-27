@@ -1,0 +1,92 @@
+body{
+	margin: 0;
+	font-family: 'Anonymous Pro', monospace;
+	font-size: 15px;
+	line-height: 30px;
+	justify-content: space-between;
+}
+
+header{
+	background-color: #C0D4DA;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+header h1{
+	color: #6B757C;
+	font-family: 'Moon Dance', cursive;
+	font-size: 50px;
+	line-height: normal;
+
+}
+
+header img{
+	border-radius: 50%;
+	width: 300px;
+	border: 10px solid #ABB8BC;
+}
+
+body h2{
+	color: #6B757C;
+	font-family: 'Moon Dance', cursive;
+	font-size: 30px;
+	margin-top: 50px;
+}
+
+main{
+	max-width: 800px;
+	margin : 0 auto;
+	padding: 20px 20px;
+
+}
+
+main img{
+	max-width: 100%;
+	padding: 10px;
+}
+
+a{
+	color: #6B757C;
+}
+
+a:hover{
+	color: white;
+	background-color: #C0D4DA;
+
+}
+
+footer{
+	background-color: #C0D4DA;
+	text-align: center;
+	color: white;
+	padding: 30px;
+}
+
+footer p{
+	margin: 0;
+}
+
+footer a{
+	color: white;
+}
+
+footer a:hover{
+	opacity: .5;
+	background-color: transparent;
+}
+
+p.caption{
+	font-style: italic;
+	color: #6B757C;
+	text-align: center;
+}
+
+i{
+	margin-right: 5px;
+	margin-top: 5px;
+	position: relative;
+	top: -10px;
+}
+
+
